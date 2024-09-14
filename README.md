@@ -1,6 +1,6 @@
 ### Tokyo UEG
 
-Site criado para a matéria de Prática de Progrmação com HTML e CSS.
+Site criado para o trabalho da matéria de Prática de Progrmação no curso de Sistemas de Informação da Universidade Estadual de Goiás.
 
 ## Início
 ![inicio html](https://github.com/user-attachments/assets/b937a978-069d-45f1-89f3-3fa79c93b3bb)
