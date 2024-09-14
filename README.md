@@ -2,7 +2,7 @@
 
 Site criado para o trabalho da matéria de Prática de Progrmação no curso de Sistemas de Informação da Universidade Estadual de Goiás. O site é responsivo tanto em navegadores desktop quanto mobile.
 
-Link do site [Tokyo UEG](tokyo-ueg.vercel.app)
+[Visite o site aqui](https://tokyo-ueg.vercel.app)
 
 ## Início
 ![inicio html](https://github.com/user-attachments/assets/b937a978-069d-45f1-89f3-3fa79c93b3bb)
