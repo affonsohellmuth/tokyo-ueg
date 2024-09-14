@@ -1,6 +1,6 @@
 ### Tokyo UEG
 
-Site criado para o trabalho da matéria de Prática de Progrmação no curso de Sistemas de Informação da Universidade Estadual de Goiás. O site é responsivo tanto em navegadores desktop quanto mobile.
+Site criado para o trabalho da matéria de Prática de Programação no curso de Sistemas de Informação da Universidade Estadual de Goiás. O site é responsivo tanto em navegadores desktop quanto mobile.
 
 [Visite o site aqui](https://tokyo-ueg.vercel.app)
 
